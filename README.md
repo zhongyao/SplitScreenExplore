@@ -1,5 +1,5 @@
 ### 参考：
-[Android N App分屏模式完全解析（上）] (http://unclechen.github.io/2016/03/12/Android%20N%20App%E5%88%86%E5%B1%8F%E6%A8%A1%E5%BC%8F%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90-%E4%B8%8A%E7%AF%87/)
+[Android N App分屏模式完全解析](http://unclechen.github.io/2016/03/12/Android%20N%20App%E5%88%86%E5%B1%8F%E6%A8%A1%E5%BC%8F%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90-%E4%B8%8A%E7%AF%87/)
 
 
 Android的分屏模式开发注意事项
